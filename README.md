@@ -1,3 +1,3 @@
-# YP-Proyekan
-Repository Proggram GOLDFish kita
+# YP-kumpulan Slide-slide
+Tutorial dan model pembelajaran
 
